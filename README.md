@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/cakephp-cookie-suffix">cakephp-cookie-suffix</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/cakephp-cookie-suffix"><strong>https://abraxaslabs.tech/research/cakephp-cookie-suffix</strong></a>
+</p>
+
 
 # cakephp-cookie-suffix
 
